@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>351609977687-nper9qssp5d5uoc38j0g6bhkfmjp8khb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.351609977687-nper9qssp5d5uoc38j0g6bhkfmjp8khb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA90f7cq4DI1E79BGspZNnPxHpujvuDXJE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>351609977687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.groupDater</string>
+	<key>PROJECT_ID</key>
+	<string>groupdating-9a0f4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>groupdating-9a0f4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:351609977687:ios:5a75b2a628c58e6abc1c12</string>
+	<key>DATABASE_URL</key>
+	<string>https://groupdating-9a0f4.firebaseio.com</string>
+</dict>
+</plist>
